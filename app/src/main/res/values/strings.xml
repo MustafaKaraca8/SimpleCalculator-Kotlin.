@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="exception">Invalid input! Enter valid numbers.</string>
+</resources>
